@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-02/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-department/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-hr/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-jobLevel/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-job-level/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-mail-send-log/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-menu/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-nation/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-politics-status/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-position/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-role/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-salary/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-app-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/service-app-mail-receiver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

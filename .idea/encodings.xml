@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/consumer-app-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-department/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-hr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-job-level/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-mail-receiver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-mail-send-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-menu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-nation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-politics-status/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-position/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-role/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-app-salary/src/main/java" charset="UTF-8" />
+  </component>
+</project>
